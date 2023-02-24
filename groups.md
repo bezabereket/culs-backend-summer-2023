@@ -28,6 +28,7 @@ John Marfo
 2. Mikulus Regeczy
 3. Augustine Emeghara
 4. Hossain , sayed shafayet
+5. Bereket Detamo Haydiso
 
 ---
 ### Group : Play with ChatGPT
